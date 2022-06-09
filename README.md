@@ -5,10 +5,9 @@
 [![custom_updater][customupdaterbadge]][customupdater]
 [![License][license-shield]](LICENSE)
 
+# 因为原作者停更 Fork，支持新版 HA 安装
 
 _Component to integrate with [colorfulclouds][colorfulclouds]._
-
-此组件对接彩云天气API V2.5，本版本尚在开发中，最终释出的特性与变更未完全确定。如果突然不能用了，请提 issue
 
 **This component will set up the following platforms.**
 
